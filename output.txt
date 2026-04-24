@@ -1,0 +1,188 @@
+PS D:\sm tasks> cd .\project1\
+(.venv) PS D:\sm tasks\project1> python main.py    
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: Real Tasks
+
+[✔] Task added!
+[AI] ML suggestion: High priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: give money to friend
+
+[✔] Task added!
+[AI] ML suggestion: Medium priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: going to trip
+
+[✔] Task added!
+[AI] ML suggestion: Medium priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: i want to study for exam
+
+[✔] Task added!
+[AI] ML suggestion: Medium priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: sleep
+
+[✔] Task added!
+[AI] ML suggestion: High priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: instagram 
+
+[✔] Task added!
+[AI] ML suggestion: High priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1        
+Enter task description: coffee with friend
+
+[✔] Task added!
+[AI] ML suggestion: Low priority.
+
+
+                       
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: message to friend
+
+[✔] Task added!
+[AI] ML suggestion: Medium priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 1
+Enter task description: sleep
+
+[✔] Task added!
+[AI] ML suggestion: High priority.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 3
+
+--- CURRENT TASK LIST ---
+                        task priority
+0                 Real Tasks     High
+1       give money to friend   Medium
+2              going to trip   Medium
+3   i want to study for exam   Medium
+4                      sleep     High
+5                  instagram     High
+6        coffee with friend      Low
+7         message to friend   Medium
+8                     sleep     High
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 2
+--- CURRENT TASK LIST ---
+                       task priority
+0                Real Tasks     High
+1      give money to friend   Medium
+2             going to trip   Medium
+3  i want to study for exam   Medium
+4                     sleep     High
+5                 instagram     High
+6        coffee with friend      Low
+7         message to friend   Medium
+8                     sleep     High
+
+Enter index number to remove: 4
+
+[✔] Task removed successfully.
+
+========================
+ TASK MANAGEMENT SYSTEM
+========================
+1. Add Task
+2. Remove Task
+3. List All Tasks
+4. Exit
+
+Select an option: 4
+Goodbye!
+(.venv) PS D:\sm tasks\project1> 
